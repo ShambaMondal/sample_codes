@@ -1,5 +1,5 @@
 '''
-The script is based on the tutorial here: https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html
+This sample script was written for anlayzing scRNA-seq data (24hpf during zebrafish heart development)
 '''
 
 import numpy as np
